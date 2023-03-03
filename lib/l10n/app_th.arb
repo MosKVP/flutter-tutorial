@@ -1,0 +1,14 @@
+{
+    "button_like": "ถูกใจ",
+    "button_next": "ต่อไป",
+    "text_no_favorite_yet": "ยังไม่มีชื่อที่ถูกใจ",
+    "favorite_count": "คุณมี {favorites_length} ชื่อที่ถูกใจ:",
+    "@favorite_count": {
+        "placeholders": {
+            "favorites_length": {
+                "type": "String"
+            }
+        }
+    },
+    "text_language": "ภาษา"
+}

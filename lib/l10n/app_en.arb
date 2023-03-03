@@ -1,0 +1,14 @@
+{
+    "button_like": "Like",
+    "button_next": "Next",
+    "text_no_favorite_yet": "No favorites yet.",
+    "favorite_count": "You have {favorites_length} favorites:",
+    "@favorite_count": {
+        "placeholders": {
+            "favorites_length": {
+                "type": "String"
+            }
+        }
+    },
+    "text_language": "Language"
+}
